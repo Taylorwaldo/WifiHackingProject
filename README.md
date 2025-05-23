@@ -10,6 +10,8 @@ I made the video to be somewhat entertaining to keep full attention from the cla
 ## 🎥 Video Demonstration
 
 **[📺 Watch Full 15-Minute Demonstration](https://www.youtube.com/watch?v=-cY53krsz2U&t=24s)**
+![Image Alt](https://github.com/Taylorwaldo/WifiHackingProject/blob/main/screenshots/Youtube_thumbnail.png?raw=true)
+
 
 ## 🎯 Project Overview
 
