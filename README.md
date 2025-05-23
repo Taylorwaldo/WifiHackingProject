@@ -8,7 +8,6 @@ The responsibility of presenting was bestowed upon my teammates, while I handled
 I made the video to be somewhat entertaining to keep full attention from the class.
 
 ## 🎥 Video Demonstration
-[![WiFi Security Assessment Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 **[📺 Watch Full 15-Minute Demonstration](https://www.youtube.com/watch?v=-cY53krsz2U&t=24s)**
 
