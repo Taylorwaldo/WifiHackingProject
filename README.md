@@ -76,5 +76,7 @@ This project illustrates:
 
 ---
 *This project was completed as part of cybersecurity coursework at UNCW focusing on wireless network security assessment.*
+
 Taylor Waldo, Landen Ramsey, Bennett Marsee, Dimitri Montgomey, Ellie Deskins, and Tyler Gwiazdowski.
+
 Feel free to use, modify, and distribute this for educational purposes.
